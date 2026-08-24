@@ -1,6 +1,6 @@
 {
   "name": "ToneCritique",
-  "start_url": "",
+  "start_url": "/tonecritique/index.html",
   "display": "fullscreen",
   "icons": [{
     "src": "icon.png",
